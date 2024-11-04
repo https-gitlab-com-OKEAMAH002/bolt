@@ -59,7 +59,7 @@
     "inquirer": "10.1.2",
     "is-glob": "^4.0.0",
     "make-dir": "^1.0.0",
-    "meow": "^7.1.0",
+    "meow": "^13.2.0",
     "minimatch": "^10.0.1",
     "multimatch": "^2.1.0",
     "p-limit": "^1.1.0",
