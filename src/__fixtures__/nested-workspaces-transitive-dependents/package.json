@@ -8,6 +8,6 @@
     "workspaces": ["packages/*"]
   },
   "dependencies": {
-    "react": "^15.6.1"
+    "react": "^19.1.0"
   }
 }
