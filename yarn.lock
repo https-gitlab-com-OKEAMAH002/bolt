@@ -3557,6 +3557,13 @@ p-limit@^2.2.0:
   dependencies:
     p-try "^2.0.0"
 
+p-limit@^7.1.1:
+  version "7.1.1"
+  resolved "https://registry.yarnpkg.com/p-limit/-/p-limit-7.1.1.tgz#1f349332b179e370ede603078d975048b9e904a2"
+  integrity sha512-i8PyM2JnsNChVSYWLr2BAjNoLi0BAYC+wecOnZnVV+YSNJkzP7cWmvI34dk0WArWfH9KwBHNoZI3P3MppImlIA==
+  dependencies:
+    yocto-queue "^1.2.1"
+
 p-locate@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/p-locate/-/p-locate-2.0.0.tgz#20a0103b222a70c8fd39cc2e580680f3dde5ec43"
@@ -4838,6 +4845,11 @@ yarn@^1.9.4:
   version "1.9.4"
   resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.9.4.tgz#3b82d8446b652775723900b470d966861976924b"
   integrity sha1-O4LYRGtlJ3VyOQC0cNlmhhl2kks=
+
+yocto-queue@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-1.2.1.tgz#36d7c4739f775b3cbc28e6136e21aa057adec418"
+  integrity sha512-AyeEbWOu/TAXdxlV9wmGcR0+yh2j3vYPGOECcIj2S7MkrLyC7ne+oye2BKTItt0ii2PHk4cDy+95+LshzbXnGg==
 
 yoctocolors-cjs@^2.1.2:
   version "2.1.2"
