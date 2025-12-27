@@ -2,7 +2,7 @@
   "name": "pinned-dep",
   "version": "1.1.1",
   "dependencies": {
-    "react": "^15.6.1",
+    "react": "^19.2.1",
     "caret-dep": "^1.1.1"
   }
 }
